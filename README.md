@@ -18,14 +18,12 @@ For example, how much does this basket of books cost?
 - 1 copy of _The Goblet of Fire_ 
 - 1 copy of _The Order of the Phoenix_
 
-Answer: 51.20 EUR
+The following table lists a few key examples:
 
 |  I  |  II  | III |  IV  |  V  |  Price  |
 |-----|------|-----|------|-----|---------|
 |  1  |      |     |      |     |  8.00   |
 |  1  |  1   |     |      |     |  15.20  |
-|  1  |  1   |  1  |      |     |  21.60  |
-|  1  |  1   |  1  |  1   |     |  25.60  |
 |  1  |  1   |  1  |  1   |  1  |  30.00  |
 |  2  |      |     |      |     |  16.00  |
 |  2  |  1   |     |      |     |  23.20  |
